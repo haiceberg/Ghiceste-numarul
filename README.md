@@ -6,7 +6,7 @@
 
 ## Descrierea jocului
 
-Jocul presupune ca utilizatorul să ghicească un număr între 0 și 50, iar calculatorul va oferi indicii despre numărul introdus de utilizator în cazul în care acesta este prea mare sau prea mic. 
+Jocul presupune ca utilizatorul să ghicească un număr între 0 și 50, iar calculatorul va oferi indicii despre numărul introdus de participant în cazul în care acesta este prea mare sau prea mic. 
 
 Dacă jucătorul ghicește numărul corect în limita celor 5 încercări, va câștiga. 
 
@@ -14,11 +14,11 @@ Dacă nu reușește să ghicească numărul, acesta pierde și se va afișa num�
 
 ## Funcționalități
 
-* 1  **Număr aleatoriu generat**
+* 1  **Numărul aleatoriu generat**
   
 Calculatorul generează un număr aleatoriu între 0 și 50. Acest număr este secret și utilizatorul trebuie să-l ghicească.
 
-* 2 **Sistem de încercări**
+* 2 **Sistemul de încercări**
 
 Utilizatorul are 5 șanse pentru a ghici numărul corect. Dacă acesta depășește limita de încercări, jocul va afișa un mesaj de final de joc.
 
