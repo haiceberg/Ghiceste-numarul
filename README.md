@@ -35,7 +35,7 @@ Pe parcursul jocului, utilizatorului i se va indica dacă numărul introdus este
 - `numaratoare` - O variabilă care numără câte încercări a făcut utilizatorul până în acel moment.
 - `nr_meu` - Este numărul pe care jucătorul îl introduce în momentul începerii jocului.
 
-### **Fluxul jocului**:
+## **Fluxul jocului**:
 1. Programul afișează un mesaj introductiv, explicând regulile jocului.
 2. Se generează un număr aleatoriu între 0 și 50.
 3. Utilizatorul are 5 încercări pentru a ghici numărul corect.
