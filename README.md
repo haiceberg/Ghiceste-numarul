@@ -42,3 +42,6 @@ Pe parcursul jocului, utilizatorului i se va indica dacă numărul introdus este
 4. După fiecare încercare, utilizatorul primește un mesaj care îi spune dacă numărul introdus este prea mare sau prea mic.
 5. Dacă jucătorul ghicește numărul, jocul se încheie și i se afișează un mesaj de felicitare.
 6. Dacă utilizatorul nu ghicește numărul după 5 încercări, jocul se încheie și i se afișează numărul corect.
+
+## Contribuții
+### Dacă dorești să îmbunătățești acest program sau să adaugi funcționalități suplimentare, te rog să contribui printr-un pull request.
